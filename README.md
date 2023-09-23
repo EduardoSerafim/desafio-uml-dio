@@ -1,5 +1,5 @@
 # Orientação a Objetos e UML: Diagramação de Classes do iPhone
-Desafio da DIO onde é necessário modelar um diagrama de classes do Iphone e implementar as classes em java
+Desafio da DIO onde é necessário modelar um diagrama de classes baseado no Iphone e suas funcionalidades e implementar as classes e interfaces em java
 
 ## UML - Diagrama de classes
 
